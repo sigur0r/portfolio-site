@@ -89,6 +89,7 @@ body {
 .user-image {
   display: block;
   margin: 0 auto;
+  border-radius: 5%;
 }
 
 .intro h3,
