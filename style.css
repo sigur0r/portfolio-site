@@ -22,14 +22,18 @@ body {
   padding: 32px 0 32px;
 }
 
-.page-header .container,
+.page-header .container {
+  max-width: 1408px;
+  text-align: left;
+}
+
 .page-footer .container {
   max-width: 1408px;
   text-align: right;
 }
 
 .page-header a {
-  margin-left: 56px;
+  margin-left: 10px;
   color: #288be6;
   text-decoration: none;
   background-repeat: no-repeat;
