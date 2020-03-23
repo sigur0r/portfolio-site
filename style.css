@@ -125,6 +125,8 @@ body {
 
 .skill-js {
  background-image: url("portfolio-images/img/icon-js.svg"); 
+ line-height: 22px;
+ max-width: 24px;
 }
 
 .level {
