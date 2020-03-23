@@ -7,7 +7,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/portfolio-site.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio-images/img" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio-images/img" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,7 +48,7 @@
       <workItem from="1584134450056" duration="237000" />
       <workItem from="1584380490996" duration="89000" />
       <workItem from="1584994934889" duration="25000" />
-      <workItem from="1584995080634" duration="161000" />
+      <workItem from="1584995080634" duration="918000" />
     </task>
     <servers />
   </component>
