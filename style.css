@@ -123,6 +123,10 @@ body {
   background-image: url("portfolio-images/img/icon-css.svg");
 }
 
+.skill-js {
+ background-image: url("https://cdn.worldvectorlogo.com/logos/javascript-1.svg"); 
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
