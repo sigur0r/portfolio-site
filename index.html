@@ -5,10 +5,16 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
     <title>Портфолио Junior верстальщика</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="portfolioJS.js"></script>
   </head>
   <body>
     <header class="page-header">
      <div class="container">
+       <a id="page-header">
+       <a class="aboutMe"  href="#subheading">Обо мне</a>
+       <a class="my_jobs"  href="#my_jobs">Моя работа</a>
+       </a>
        <a class="header-email" href="mailto:artyom.schukin@gmail.com">artyom.schukin@gmail.com</a>
        <a class="header-phone" href="tel:+79117703134">+7 911 770 31 34</a>
     </div>
@@ -22,7 +28,7 @@
     </section>
 
     <section class="intro">
-      <h2 class="subheading">Обо мне</h2>
+      <h2 class="subheading" id="subheading">Обо мне</h2>
       <figure>
           <img src="portfolio-images/files/user.jpeg" width="30%" height="30%" alt="Фотография Щукина Артема" class="user-image">
       </figure>
@@ -47,7 +53,7 @@
     </section>
 
     <section class="portfolio">
-      <h2 class="subheading">Мои работы</h2>
+      <h2 class="subheading" id="my_jobs">Мои работы</h2>
       <figure class="project-image">
         <img src="http://www.politek-spb.ru/images/logo.png" alt="Cайт Политэк-СПб">
       </figure>
@@ -63,8 +69,6 @@
        </ul>
       </p>
 
-      <h3>Блог начинающего верстальщика</h3>
-      <p>Статический блог про обучение HTML и CSS.</p>
       </div>
     </section>
 

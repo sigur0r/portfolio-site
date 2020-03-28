@@ -124,7 +124,7 @@ body {
 }
 
 .skill-js {
- background-image: url("portfolio-images/img/icon-js.svg"); 
+ background-image: url("portfolio-images/img/icon-js.png");
  line-height: 22px;
  max-width: 24px;
 }
@@ -202,4 +202,16 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("portfolio-images/img/icon-phone-footer.svg");
+}
+
+.aboutMe {
+  float: left;
+  padding-left: 30px;
+  background-image: url("portfolio-images/img/me-img.png");
+}
+
+.my_jobs {
+  float: left;
+  padding-left: 30px;
+  background-image: url("portfolio-images/img/jobs-img.png");
 }
