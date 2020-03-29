@@ -9,4 +9,4 @@ jQuery(document).ready(function($) {
 });
 
 ScrollReveal().reveal('.intro');
-ScrollReveal().reveal('.portfolio');
+ScrollReveal().reveal('.portfolio', { delay: 500 });
