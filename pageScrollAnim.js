@@ -7,6 +7,3 @@ jQuery(document).ready(function($) {
         e.preventDefault();
     });
 });
-
-ScrollReveal().reveal('.intro');
-ScrollReveal().reveal('.portfolio', { delay: 500 });
