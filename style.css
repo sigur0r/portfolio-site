@@ -4,12 +4,13 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
-  background-color: #f2f4f6;
-  background-image: url("portfolio-images/img/hero-bg.jpg");
-  background-repeat: no-repeat;
-  background-position: top center;
+  color: #000000;
+  background-color: #ffffff;
 }
+
+header {
+   background-size: 400% 400%;
+  }
 
 .container {
   max-width: 928px;
@@ -34,7 +35,7 @@ body {
 
 .page-header a {
   margin-left: 10px;
-  color: #288be6;
+  color: #000000;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -51,7 +52,8 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 25%;
+  margin-top: 15%;
 }
 
 .hero-image .container {
@@ -75,6 +77,7 @@ body {
 
 .intro {
   margin: 0 0 120px;
+  font-color: black;
 }
 
 .subheading {
@@ -182,7 +185,7 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: #aaa8a2;
   color: #ffffff;
 }
 
