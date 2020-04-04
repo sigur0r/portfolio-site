@@ -5,7 +5,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #ffffff;
-  background-color: #d1d1d1;
+  background-color: #5c5c5c;
 }
 
 header {
@@ -19,7 +19,6 @@ header {
 }
 
 .page-header {
-  margin: 0 0 160px;
   padding: 32px 0 32px;
 }
 
@@ -63,7 +62,7 @@ header {
 
 .heading {
   margin: 0 0 16px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-family: "Source Sans Pro", "Times", "Times New Roman", sans-serif;
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
@@ -77,12 +76,12 @@ header {
 
 .intro {
   margin: 0 0 120px;
-  font-color: black;
+  background-color: #5c5c5c;
 }
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-family: "Source Sans Pro", "Times", "Times New Roman", serif;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
@@ -137,7 +136,7 @@ header {
   padding: 0;
   height: 14px;
   font-size: 0;
-  background-color: #ffffff;
+  background-color: #535353;
   border: 1px solid #86c3fa;
   border-radius: 8px;
 }
@@ -150,7 +149,7 @@ header {
 }
 
 .portfolio {
-  margin: 0 0 120px;
+  background-color: #575757;
 }
 
 .projects {
@@ -185,7 +184,7 @@ header {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #aaa8a2;
+  background-color: #515151;
   color: #ffffff;
 }
 
