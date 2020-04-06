@@ -29,6 +29,8 @@ header {
 
 .page-header {
   padding: 32px 0 32px;
+  height: 100vh;
+  position: relative;
 }
 
 .page-header .container {
@@ -62,6 +64,7 @@ header {
 .hero-image {
   margin-bottom: 25%;
   margin-top: 15%;
+  position: relative;
 }
 
 .hero-image .container {
@@ -225,4 +228,8 @@ header {
   float: left;
   padding-left: 30px;
   background-image: url("portfolio-images/img/jobs-img.png");
+}
+
+.vanta-canvas {
+  position: absolute;
 }
