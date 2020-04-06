@@ -17,8 +17,9 @@ body {
 
 header {
    background-size: 400% 400%;
-   height: 100%;
    width: 100%;
+   height: 100vh;
+   position: relative;
   }
 
 .container {
@@ -29,8 +30,6 @@ header {
 
 .page-header {
   padding: 32px 0 32px;
-  height: 100vh;
-  position: relative;
 }
 
 .page-header .container {
