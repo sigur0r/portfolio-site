@@ -11,8 +11,8 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #ffffff;
-  background-color: #5c5c5c;
+  color: #000000;
+  background-color: #ffffff;
 }
 
 header {
@@ -30,6 +30,7 @@ header {
 
 .page-header {
   padding: 32px 0 32px;
+  color: white;
 }
 
 .page-header .container {
@@ -87,7 +88,8 @@ header {
 
 .intro {
   margin: 0 0 120px;
-  background-color: #5c5c5c;
+  background-color: #ffffff;
+  font-color: black;
 }
 
 .subheading {
@@ -147,7 +149,8 @@ header {
   padding: 0;
   height: 14px;
   font-size: 0;
-  background-color: #535353;
+  font-color: black;
+  background-color: #ffffff;
   border: 1px solid #86c3fa;
   border-radius: 8px;
 }
@@ -155,12 +158,13 @@ header {
 .level div {
   margin: 1px;
   height: 12px;
-  background-color: #288be6;
+  background-color: #ffffff;
   border-radius: 6px;
 }
 
 .portfolio {
-  background-color: #575757;
+  background-color: #ffffff;
+  font-color: black;
 }
 
 .projects {
@@ -195,8 +199,8 @@ header {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #515151;
-  color: #ffffff;
+  background-color: #ffffff;
+  font-color: black;
 }
 
 .page-footer a {
@@ -232,4 +236,6 @@ header {
   position: absolute;
   top: 0px;
   left: 0px;
+  width: 100%;
+  height: 100%;
 }
