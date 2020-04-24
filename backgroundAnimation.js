@@ -1,11 +1,15 @@
 window.onload = function () {
-    VANTA.HALO({
+    VANTA.NET({
         el: "header",
         mouseControls: true,
         touchControls: true,
         minHeight: 200.00,
         minWidth: 200.00,
-        baseColor: 0x1af01a,
-        backgroundColor: 0x2377c3
+        scale: 1.00,
+        scaleMobile: 1.00,
+        color: 0x3fddff,
+        backgroundColor: 0x115da0,
+        points: 11.00,
+        spacing: 16.003
     });
 };
