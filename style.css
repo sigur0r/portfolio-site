@@ -91,9 +91,9 @@ header {
 }
 
 .intro {
-  margin: 0 0 15%;
+  margin: 0 0 27%;
   background-color: #ffffff;
-  font-color: black;
+  color: black;
 }
 
 .subheading {
@@ -121,6 +121,12 @@ header {
 
 .intro p {
   margin: 0 0 32px;
+}
+
+.skills {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-bottom: 25%;
 }
 
 .skills-list {
@@ -153,7 +159,7 @@ header {
   padding: 0;
   height: 14px;
   font-size: 0;
-  font-color: black;
+  color: black;
   background-color: #ffffff;
   border: 1px solid #86c3fa;
   border-radius: 8px;
@@ -168,7 +174,7 @@ header {
 
 .portfolio {
   background-color: #ffffff;
-  font-color: black;
+  color: black;
 }
 
 .projects {
@@ -204,7 +210,7 @@ header {
 .page-footer {
   padding: 40px 0;
   background-color: #ffffff;
-  font-color: black;
+  color: black;
 }
 
 .page-footer a {
