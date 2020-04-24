@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e676f3fa-9775-4fe1-a7ff-1a1a5f06fda9" name="Default Changelist" comment="" />
+    <list default="true" id="e676f3fa-9775-4fe1-a7ff-1a1a5f06fda9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backgroundAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/backgroundAnimation.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,18 +59,34 @@
       <workItem from="1585844194629" duration="299000" />
       <workItem from="1585844797727" duration="3944000" />
       <workItem from="1587740575845" duration="898000" />
-      <workItem from="1587754207560" duration="322000" />
+      <workItem from="1587754207560" duration="846000" />
     </task>
+    <task id="LOCAL-00001" summary="background update">
+      <created>1587754987009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587754987009</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="background update" />
+    <option name="LAST_COMMIT_MESSAGE" value="background update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="455" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587741523864">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="455" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.812@0.23.1440.812" timestamp="1587741523864" />
+    <state x="719" y="55" key="CommitChangelistDialog2" timestamp="1587754983849">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state x="719" y="55" key="CommitChangelistDialog2/0.23.1920.984@0.23.1920.984" timestamp="1587754983849" />
     <state x="469" y="155" key="SettingsEditor" timestamp="1585924117261">
       <screen x="0" y="23" width="1920" height="986" />
     </state>
