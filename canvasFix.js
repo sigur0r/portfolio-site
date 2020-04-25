@@ -13,4 +13,4 @@ if (window.devicePixelRatio > 1) {
 
     ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
 }
-}
+)}
