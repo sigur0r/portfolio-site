@@ -1,10 +1,12 @@
-var getPixelRatio = function(context) {
-    var backingStore = context.backingStorePixelRatio ||
-          context.webkitBackingStorePixelRatio ||
-          context.mozBackingStorePixelRatio ||
-          context.msBackingStorePixelRatio ||
-          context.oBackingStorePixelRatio ||
-          context.backingStorePixelRatio || 1;
+let pixelRatioBox = document.querySelector(".canvas");
+let mqString = `(resolution: ${window.devicePixelRatio}dppx)`;
 
-    return (window.devicePixelRatio || 1) / backingStore;
-};
+const updatePixelRatio = () => {
+  let pr = window.devicePixelRatio;
+  let prString = (pr * 100).toFixed(0);
+  pixelRatioBox.innerText = `${prString}% (${pr.toFixed(2)})`;
+}
+
+updatePixelRatio();
+
+matchMedia(mqString).addListener(updatePixelRatio);
