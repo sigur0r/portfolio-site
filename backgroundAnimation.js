@@ -1,6 +1,6 @@
 window.onload = function () {
    VANTA.FOG({
-        el: "header",
+        el: ".header-bg",
         mouseControls: true,
         touchControls: true,
         minHeight: 200.00,
