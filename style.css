@@ -240,3 +240,7 @@ header {
   padding-left: 30px;
   background-image: url("portfolio-images/img/jobs-img.png");
 }
+
+.canvas {
+ display: flex; 
+}
