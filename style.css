@@ -12,6 +12,7 @@ body {
   line-height: 32px;
   color: #000000;
   background-color: #ffffff;
+  -webkit-font-smoothing: antialiased;
 }
 
 header {
