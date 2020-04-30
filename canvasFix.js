@@ -1,16 +1,12 @@
 jQuery(document).ready(function($) {
-var canvas = document.querySelector('canvas');
-var ctx = canvas.getContext('2d');
+var getPixelRatio = function(context) {
+    var backingStore = context.backingStorePixelRatio ||
+          context.webkitBackingStorePixelRatio ||
+          context.mozBackingStorePixelRatio ||
+          context.msBackingStorePixelRatio ||
+          context.oBackingStorePixelRatio ||
+          context.backingStorePixelRatio || 1;
 
-if (window.devicePixelRatio > 1) {
-    var canvasWidth = canvas.width;
-    var canvasHeight = canvas.height;
-
-    canvas.width = canvasWidth * window.devicePixelRatio;
-    canvas.height = canvasHeight * window.devicePixelRatio;
-    canvas.style.width = canvasWidth;
-    canvas.style.height = canvasHeight;
-
-    ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
-}
+    return (window.devicePixelRatio || 1) / backingStore;
+};
 });
