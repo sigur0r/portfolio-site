@@ -6,7 +6,7 @@ window.onload = function () {
         minWidth: 200.00,
         scale: 1.00,
         scaleMobile: 1.00,
-        color: 0x967bb,
+        color: 0xfffff,
         backgroundColor: 0x379af2
     });
 };
