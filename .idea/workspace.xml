@@ -65,7 +65,7 @@
       <workItem from="1587754207560" duration="846000" />
       <workItem from="1588581805592" duration="407000" />
       <workItem from="1589294669737" duration="14000" />
-      <workItem from="1589294796570" duration="5312000" />
+      <workItem from="1589294796570" duration="5475000" />
     </task>
     <task id="LOCAL-00001" summary="background update">
       <created>1587754987009</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589315141746</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="добавил alt для иконок skillsRow">
+      <created>1589315267448</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589315267448</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +129,8 @@
     <MESSAGE value="исправил размеры фото &quot;обо мне&quot;" />
     <MESSAGE value="изменил раздел &quot;чем могу быть полезен&quot;" />
     <MESSAGE value="анимировал раздел skillsRow" />
-    <option name="LAST_COMMIT_MESSAGE" value="анимировал раздел skillsRow" />
+    <MESSAGE value="добавил alt для иконок skillsRow" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил alt для иконок skillsRow" />
   </component>
   <component name="WindowStateProjectService">
     <state x="607" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588582038761">
@@ -130,10 +138,10 @@
     </state>
     <state x="455" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.812@0.23.1440.812" timestamp="1587741523864" />
     <state x="607" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1920.984@0.23.1920.984" timestamp="1588582038761" />
-    <state x="1056" y="103" key="CommitChangelistDialog2" timestamp="1589315141080">
+    <state x="1056" y="103" key="CommitChangelistDialog2" timestamp="1589315267224">
       <screen x="0" y="23" width="1920" height="984" />
     </state>
-    <state x="1056" y="103" key="CommitChangelistDialog2/0.23.1920.984@0.23.1920.984" timestamp="1589315141080" />
+    <state x="1056" y="103" key="CommitChangelistDialog2/0.23.1920.984@0.23.1920.984" timestamp="1589315267224" />
     <state x="469" y="155" key="SettingsEditor" timestamp="1585924117261">
       <screen x="0" y="23" width="1920" height="986" />
     </state>
