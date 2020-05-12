@@ -134,9 +134,7 @@ header {
 }
 
 .skills {
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-bottom: 25%;
+  margin: 0 10% 10%;
 }
 
 .skills-list {
