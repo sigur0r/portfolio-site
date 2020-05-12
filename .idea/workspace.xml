@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e676f3fa-9775-4fe1-a7ff-1a1a5f06fda9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/OFL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-BlackItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-BlackItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-ExtraLight.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-ExtraLightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-ExtraLightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-Light.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-LightItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-LightItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-SemiBold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source_Sans_Pro/SourceSansPro-SemiBoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Source_Sans_Pro/SourceSansPro-SemiBoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backgroundAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/backgroundAnimation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvasFix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageScrollAnim.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/pageScrollAnim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrollreveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scrollreveal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrollreveal.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/scrollreveal.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/textAppearAnim.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/textAppearAnim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/three.r95.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/three.r95.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vanta.halo.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/vanta.halo.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wow.min.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +64,8 @@
       <workItem from="1587740575845" duration="898000" />
       <workItem from="1587754207560" duration="846000" />
       <workItem from="1588581805592" duration="407000" />
+      <workItem from="1589294669737" duration="14000" />
+      <workItem from="1589294796570" duration="1481000" />
     </task>
     <task id="LOCAL-00001" summary="background update">
       <created>1587754987009</created>
