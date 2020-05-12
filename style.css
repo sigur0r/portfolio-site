@@ -258,9 +258,10 @@ header {
 
 .skillsRow {
   display: flex;
+  flex-wrap: wrap;
 }
 
 .skillsRow img {
-  width: 196px;
+  width: 150px;
 
 }
