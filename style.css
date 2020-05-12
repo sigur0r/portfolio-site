@@ -101,7 +101,7 @@ header {
 }
 
 .intro {
-  margin: 0 10% 25%;
+  margin: 0 10% 15%;
   background-color: #ffffff;
   color: black;
 }
@@ -254,4 +254,9 @@ header {
 
 .canvas {
  display: flex; 
+}
+
+.skillsRow {
+  display: flex;
+
 }
