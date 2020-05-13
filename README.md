@@ -6,4 +6,4 @@ Was using Jquery to make transition animation on website.
 Background canvas animation was taken from Vanta js. 
 
 
-Right now focusing on making website design adaptive, know about issues like not scaling canvas on hi-dpi displays.
+Right now focusing on making website design adaptive.
