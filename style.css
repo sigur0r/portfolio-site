@@ -54,7 +54,7 @@ header {
 
 .page-footer .container {
   max-width: 1408px;
-  text-align: right;
+  text-align: center;
 }
 
 .page-header a {
@@ -134,7 +134,7 @@ header {
 }
 
 .skills {
-  margin: 0 10% 10%;
+  margin: 0 13% 10%;
 }
 
 .skills-list {
@@ -240,14 +240,18 @@ header {
 
 .aboutMe {
   float: left;
-  padding-left: 30px;
-  background-image: url("portfolio-images/img/me-img.png");
+  padding: 0 2% 0;
+  border-style: solid;
+  border-color: white;
+  border-radius: 12px;
 }
 
 .my_jobs {
   float: left;
-  padding-left: 30px;
-  background-image: url("portfolio-images/img/jobs-img.png");
+  padding: 0 2% 0;
+  border-style: solid;
+  border-color: white;
+  border-radius: 12px;
 }
 
 .canvas {
@@ -261,5 +265,4 @@ header {
 
 .skillsRow img {
   width: 150px;
-
 }
