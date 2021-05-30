@@ -181,9 +181,8 @@ header {
 }
 
 .portfolio {
-  color: white;
-  background: rgb(99,111,240);
-  background: linear-gradient(146deg, rgba(99,111,240,1) 0%, rgba(0,255,181,0.1334908963585434) 100%);
+  background-color: #ffffff;
+  color: black;
 }
 
 .projects {
