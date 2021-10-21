@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e676f3fa-9775-4fe1-a7ff-1a1a5f06fda9" name="Default Changelist" comment="">
+    <list default="true" id="e676f3fa-9775-4fe1-a7ff-1a1a5f06fda9" name="Default Changelist" comment="небольшое изменение описания себя">
+      <change afterPath="$PROJECT_DIR$/WriteUsButton.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bxslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/vanta.fog.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/Atlassian-horizontal-blue-rgb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/Bitbucket-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/Confluence-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/aws-2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/datadog-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/fastly.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/jenkins.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/jira-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/new-relic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/okta-3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/sophos-logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/backgroundAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/backgroundAnimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/textAppearAnim.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/textAppearAnim.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -29,24 +45,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/portfolio-images/img" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/portfolio-images/icons" />
-      <recent name="$PROJECT_DIR$/portfolio-images" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/fonts" />
-      <recent name="$PROJECT_DIR$/dist" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/portfolio-images/img" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$/portfolio-images/icons" />
+      <recent name="$PROJECT_DIR$/portfolio-images" />
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,6 +89,9 @@
       <workItem from="1589294796570" duration="6118000" />
       <workItem from="1589368543186" duration="180000" />
       <workItem from="1589489744051" duration="2357000" />
+      <workItem from="1618826756264" duration="622000" />
+      <workItem from="1618833086594" duration="1831000" />
+      <workItem from="1634807508122" duration="4591000" />
     </task>
     <task id="LOCAL-00001" summary="background update">
       <created>1587754987009</created>
@@ -131,7 +153,18 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="background update" />
@@ -162,5 +195,16 @@
       <screen x="0" y="23" width="1920" height="986" />
     </state>
     <state x="616" y="350" key="com.intellij.ide.util.TipDialog/0.23.1920.986@0.23.1920.986" timestamp="1584380495805" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/dist/pageScrollAnim.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

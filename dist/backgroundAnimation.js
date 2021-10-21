@@ -1,12 +1,13 @@
 window.onload = function () {
-   VANTA.NET({
+   VANTA.FOG({
         el: ".header-bg",
-        mouseControls: true,
-        minHeight: 200.00,
-        minWidth: 200.00,
-        scale: 1.00,
-        scaleMobile: 1.00,
-        color: 0xfffff,
-        backgroundColor: 0x379af2
+       mouseControls: true,
+       touchControls: true,
+       gyroControls: false,
+       minHeight: 200.00,
+       minWidth: 200.00,
+       highlightColor: 0xcfc6bb,
+       midtoneColor: 0x1967d2,
+       lowlightColor: 0xb3ff
     });
 };
