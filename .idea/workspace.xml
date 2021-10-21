@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e676f3fa-9775-4fe1-a7ff-1a1a5f06fda9" name="Default Changelist" comment="небольшое изменение описания себя">
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/atlassian-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio-images/icons/jenkins-1.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WriteUsButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/WriteUsButton.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
@@ -43,9 +44,9 @@
       <recent name="$PROJECT_DIR$/portfolio-images/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio-images/icons" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/dist" />
-      <recent name="$PROJECT_DIR$/portfolio-images/icons" />
       <recent name="$PROJECT_DIR$/portfolio-images" />
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
@@ -76,7 +77,7 @@
       <workItem from="1589489744051" duration="2357000" />
       <workItem from="1618826756264" duration="622000" />
       <workItem from="1618833086594" duration="1831000" />
-      <workItem from="1634807508122" duration="6090000" />
+      <workItem from="1634807508122" duration="7410000" />
     </task>
     <task id="LOCAL-00001" summary="background update">
       <created>1587754987009</created>

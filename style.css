@@ -161,6 +161,59 @@ header {
  max-width: 24px;
 }
 
+#atlassianskill {
+  display: inline-flex;
+  height: 150px;
+  width: 150px;
+}
+
+#awsskill {
+  display: inline-flex;
+  height: 150px;
+  width: 150px;
+}
+
+#datadogskill{
+  display: inline-flex;
+  height: 150px;
+  width: 150px;
+}
+
+#fastlyskill{
+  display: inline-flex;
+  height: 150px;
+  width: 150px;
+  margin: 1%;
+}
+
+#jenkinsskill{
+  display: inline-flex;
+  height: 150px;
+  width: 115px;
+  margin-left: 3%;
+}
+
+#newrelicskill{
+  display: inline-flex;
+  height: 150px;
+  width: 150px;
+  margin: 1%;
+}
+
+#oktaskill{
+  display: inline-flex;
+  height: 150px;
+  width: 150px;
+  margin: 1%;
+}
+
+#sophosskill{
+  display: inline-flex;
+  height: 150px;
+  width: 150px;
+  margin: 1%;
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
