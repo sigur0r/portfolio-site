@@ -233,7 +233,11 @@ header {
 }
 
 .portfolio {
-  background-color: #ffffff;
+  padding-right: 80px;
+  padding-left: 80px;
+  background-color: #f4f4f4;
+  margin-right: 30px;
+  margin-left: 30px;
   color: black;
 }
 
