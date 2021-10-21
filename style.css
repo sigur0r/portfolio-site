@@ -240,17 +240,11 @@ header {
 .aboutMe {
   float: left;
   padding: 0 2% 0;
-  border-style: solid;
-  border-color: white;
-  border-radius: 12px;
 }
 
 .my_jobs {
   float: left;
   padding: 0 2% 0;
-  border-style: solid;
-  border-color: white;
-  border-radius: 12px;
 }
 
 .canvas {

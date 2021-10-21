@@ -19,6 +19,8 @@
 
 .rainbow-1:hover{
     background-image: linear-gradient(90deg, #00C0FF 0%, #81e5da 49%, #4ffcb4 80%, #00C0FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     animation:slidebg 5s linear infinite;
 }
 
